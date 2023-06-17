@@ -9,8 +9,8 @@
 
 include $(TOPDIR)/rules.mk
 PKG_NAME:=power-dock
-PKG_VERSION:=0.5
-PKG_RELEASE:=2
+PKG_VERSION:=0.6
+PKG_RELEASE:=1
 
 
 PKG_SOURCE_PROTO:=git
